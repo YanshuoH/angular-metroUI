@@ -10,3 +10,4 @@ Installation
 3. npm install -g grunt --save-dev
 4. npm install -g grunt-cli
 
+Finally run it with 'grunt serve'
