@@ -1,7 +1,9 @@
-angular-metroUI
+angular-metroUI (deprecated)
 ===============
 
-Attemption of creating an AngularJs app with Metro UI CSS 2.0
+Well, hello angular2 
+
+~~Attemption of creating an AngularJs app with Metro UI CSS 2.0~~
 
 Installation
 ===============
